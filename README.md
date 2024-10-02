@@ -1,4 +1,6 @@
 Walmart Retail Data Insights
+
+
 Project Overview
 This project presents a comprehensive retail data analysis dashboard for Walmart, created using Tableau. The dashboard provides insights into sales, profits, and regional performance across different states and time periods.
 
